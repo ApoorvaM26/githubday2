@@ -4,4 +4,8 @@ btech 1st year
 i changed my branch
 changes done
 changed github editor
+<<<<<<< HEAD
 i am feeling sleepy
+=======
+i am not at nist
+>>>>>>> apoorva
